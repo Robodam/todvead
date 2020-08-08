@@ -1,0 +1,14 @@
+{
+  "name": "todvead-infotech",
+  "version": "1.0.0",
+  "description": "Todvead Infotech Service Limited",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Todvead Infotech Service Limited",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^4.1.0"
+  }
+}
