@@ -938,6 +938,9 @@ section {
 .services .title a {
   color: #343a40;
 }
+.services .icon-box:hover {
+  color: #ff5821;
+}
 
 .services .icon-box:hover .icon {
   background: #fff;
